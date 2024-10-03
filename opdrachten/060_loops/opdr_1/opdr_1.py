@@ -7,3 +7,9 @@
 # Hier start de for-loop....
 
 my_list = []
+
+for getal in range(1, 11):
+    my_list.append(getal)
+
+# Print de lijst op het scherm
+print(my_list)
