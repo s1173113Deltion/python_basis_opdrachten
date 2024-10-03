@@ -13,7 +13,7 @@ pizza_list.sort()
 print("Gesorteerde pizza's:", pizza_list)
 
 # Voeg een extra pizza toe
-pizza_list.append('yo-favorito')
+pizza_list.append('shoarma')
 print("Na toevoeging van een pizza:", pizza_list)
 
 # Verwijder de pizza die je het minst lekker vindt
