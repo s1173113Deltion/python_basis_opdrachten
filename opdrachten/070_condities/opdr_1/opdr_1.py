@@ -6,7 +6,19 @@
 
 # Hier start de for-loop....
 
-my_list = []
+cijfers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
 #for loop
-#if statement
+output = []
+
+for cijfer in cijfers:
+    #if statement
+    if cijfer > 4:
+        output.append(cijfer)
+    
+print(output)
+
+
+
+
+    
