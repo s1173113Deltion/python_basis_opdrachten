@@ -1,0 +1,24 @@
+----
+voornaam: Willem
+achternaam: Hartman
+drank: Water
+eten: Brood
+
+----
+voornaam: Jaap
+achternaam: Krab
+drank: Drinken
+eten: Eten
+
+----
+voornaam: 1
+achternaam: 1
+drank: 1
+eten: 1
+
+----
+voornaam: 2
+achternaam: 2
+drank: 2
+eten: 2
+
