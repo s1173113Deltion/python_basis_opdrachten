@@ -10,3 +10,9 @@ achternaam: 6
 drank: 7
 eten: 8
 
+----
+voornaam: Willem
+achternaam: Hartman
+drank: Cola
+eten: Brood
+
